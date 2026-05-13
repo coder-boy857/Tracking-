@@ -1,0 +1,20 @@
+Great idea! Voice input will make it even faster — you just say the name and it fills in automatically.
+
+Now I'll add voice command to the app. You'll be able to say things like **"Surya Lohani part two"** or **"Ram Bahadur single"** and it will auto-fill everything!
+
+Voice command is now added! 🎙️ Here's how to use it:
+
+**Just tap the mic and say:**
+- *"Surya Lohani part two"* → fills name + selects ii
+- *"Ram Bahadur single"* → fills name + selects i
+- *"Dhan Kumari triple"* → fills name + selects iii
+- *"Bikesh double"* → fills name + selects ii
+
+**It understands many ways to say the parts:**
+- Single / one / 1 / part one → **i**
+- Double / two / 2 / part two → **ii**
+- Triple / three / 3 / part three → **iii**
+
+After voice fills the name and part, just tap **ADD PATIENT** — done in seconds! 😊
+
+> **Note:** Voice works on Chrome browser on Android. Make sure to allow microphone permission when asked.
